@@ -31,10 +31,4 @@
   - [操作说明](discussion/guiding.md)
   - [联系方式](discussion/contact.md)
 
-- 勋章说明
-
-  - 荣誉勋章
-  - 成就勋章
-  - 等级勋章
-
 - [系统更新日志Changelog](changelog.md)
