@@ -1,6 +1,6 @@
 ![logo](./_media/icon.png )
 
-# LR-Learning   <small>v1.33</small>
+# LR-Learning   <small>v2.0🎉</small>
 
 - 登录注册
 - 用户协议 
