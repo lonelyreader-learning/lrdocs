@@ -1,3 +1,5 @@
+- [平台介绍](README.md)
+
 - 用户协议
 
   - [首部及导言](agreement/guide.md)
