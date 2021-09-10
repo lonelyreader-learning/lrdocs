@@ -1,6 +1,6 @@
 ![logo](./_media/icon.png )
 
-# LR-Learning   <small>v2.4</small>
+# LR-Learning   <small>v2.5</small>
 
 - 账号注册和登陆
 - 用户协议 
